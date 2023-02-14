@@ -1,6 +1,6 @@
 id: freefarm
 name: 自由农场
-domain: https://pt.0ff.cc
+domain: https://pt.0ff.cc/
 encoding: UTF-8
 config_url: https://ghproxy.com/https://raw.githubusercontent.com/wadeliucn/movie-robot-public/main/app/sites/freefarm.yml
 
